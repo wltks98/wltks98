@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 - 🌱 서울시립대 컴퓨터과학부 재학중
 - 📫 Email:wltks98@hanmail.net
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme={theme})](https://github.com/{username}/github-readme-stats)
