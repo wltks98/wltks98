@@ -24,10 +24,9 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wltks98&show_icons=true&theme=tokyonight)](https://github.com/wltks98/github-readme-stats)
 
 beign studied </br>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Pythong&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
 
 
