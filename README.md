@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 📫 Email:wltks98@hanmail.net
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wltks98&show_icons=true&theme=tokyonight)](https://github.com/wltks98/github-readme-stats)
-
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wltks98)](https://solved.ac/wltks98)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wltks98&show_icons=true&theme=tokyonight)](https://github.com/wltks98/github-readme-stats)
