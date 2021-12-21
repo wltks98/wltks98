@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 서울시립대 컴퓨터과학부 재학중
 - 📫 Email:wltks98@hanmail.net
 
-<--
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={wltks98}&show_icons=true&theme={tokyonight})](https://github.com/{wltks98}/github-readme-stats)
 -->
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={wltks98})](https://solved.ac/{wltks98})
