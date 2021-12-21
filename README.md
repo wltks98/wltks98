@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 서울시립대 컴퓨터과학부 재학중
-- 📫 
+- 📫 Email:wltks98@hanmail.net
