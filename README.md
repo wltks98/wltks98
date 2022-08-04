@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wltks98)](https://solved.ac/wltks98)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wltks98&show_icons=true&theme=tokyonight)](https://github.com/wltks98/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wltks98&&count_private=true&&show_icons=true&theme=tokyonight)](https://github.com/wltks98/github-readme-stats)
 
 <strong>being studied</strong> </br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
