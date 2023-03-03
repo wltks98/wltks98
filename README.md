@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 카카오뱅크 서비스아키팀 근무 중
-- 📫 Email:wltks98@hanmail.net
+- 📫 Email : wltks98@hanmail.net
 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wltks98)](https://solved.ac/wltks98)
