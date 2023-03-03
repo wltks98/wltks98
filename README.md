@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 카카오뱅크 서비스아키팀 근무중
+- 🌱 카카오뱅크 서비스아키팀 근무 중
 - 📫 Email:wltks98@hanmail.net
 
 
