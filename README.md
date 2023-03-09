@@ -1,4 +1,4 @@
-### 김지산 월드에 오신것을 환영합니다 👋
+### 김지산 월드에 오신 것을 환영합니다 👋
 
 <!--
 **wltks98/wltks98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
